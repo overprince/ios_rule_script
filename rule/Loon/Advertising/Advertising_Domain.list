@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-18 02:06:54
+# UPDATED: 2021-07-19 09:47:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20771
+# DOMAIN: 20747
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 51127
+# DOMAIN-SUFFIX: 51124
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 72529
+# TOTAL: 72502
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -1084,7 +1084,6 @@ ad.triplemind.com
 ad.usatoday.com
 ad.virtual-nights.com
 ad.vkool.net
-ad.wanderlist.com
 ad.weibo.com
 ad.xunkids.com
 ad.yemeksepeti.com
@@ -2851,7 +2850,6 @@ analytics.traidnt.net
 analytics.trendmicro.com
 analytics.usdm.net
 analytics.vast.com
-analytics.vooxe.com
 analyticsapi.bsbportal.com
 analyticsnew.overwolf.com
 analyticsq.com
@@ -2946,6 +2944,7 @@ anshuldalua.com
 answered-questions.com
 answerhub.com
 antalya.ru
+antburape.club
 antcompany.com
 anthonymthompson.com
 anthonystrategiesgroup.com
@@ -3359,6 +3358,7 @@ asenytuhlhwrwz.com
 aservitel.com
 asextube.net
 asgarddlc.sharezips.net
+ashaidbit.club
 ashleiquinones.com
 ashleyfurn.inq.com
 ashlynnbrookevideos.com
@@ -3384,6 +3384,7 @@ aspanyarc.club
 asphalt8airbornehack.com
 asphalt8hack.com
 asqpniwvxea.com
+assampant.club
 asset.cdn.auditude.com
 assets-jpcust.jwpsrv.com
 assets.adobedtm.com
@@ -3523,7 +3524,6 @@ ay.eastmoney.com
 ayaanassociates.com
 ayada.zapto.org
 ayboll.sgsrv.com
-ayidaye.m.zwdu.com
 aysnmnzu4u.com
 ayudastecnicas.com
 ayurvedabeyond.com
@@ -4767,6 +4767,7 @@ cashierresume.org
 cashmerelands.com
 cashpartner.com
 cashreportz.com
+cashworld.biz
 casino.betsson.com
 casino770.com
 casino888vn.com
@@ -5456,7 +5457,6 @@ clashofclanswar.com
 clashofgems.net
 classicjack.com
 classicspeedway.com
-classtaxis.com
 clayheart.com
 clckcloud.com
 clean-cracks.com
@@ -6195,6 +6195,7 @@ csgo-drop.com
 csgo-hacks.com
 csgoaimbot.com
 csgoboom.net
+csgofastrade.com
 csgofine.com
 csgogivers.com
 csgohall.com
@@ -7193,7 +7194,6 @@ e-naturessunshine.com
 e-taekwang.com
 e-telecharger.com
 e.a.mobimagic.com
-e.ejiakm.net
 e.freewebhostingarea.com
 e.mtraction.com
 e.reddit.com
@@ -7613,7 +7613,6 @@ eurolatexthai.com
 europcareer.com
 europeantransfer.com
 eurospanker.com
-eurotech-cm.com
 evaairline.com
 evad3rsteam.com
 evansvillesurgical.net
@@ -7632,7 +7631,6 @@ eventosarc.com
 eventosbacus.com
 events-gateway.unbounce.com
 events.adwidecenter.com
-events.amarujala.com
 events.api.bosecm.com
 events.artirix.com
 events.blis.com
@@ -7903,7 +7901,6 @@ fbpasswordhacker.com
 fbpodgladacz.wordpress.com
 fbsecurity3425.net23.net
 fbsniffing.com
-fbstealer.com
 fbsupercheats.com
 fcanr.tracking.miui.com
 fcds.affiliatetracking.net
@@ -10592,7 +10589,6 @@ itracebiomed.com
 itrealstory.com
 its-that-easy.com
 itsmaden.com
-itunecodegenerator.com
 itunes.cardcodes.net
 itunes.extafiles.com
 itunes.foundcheats.com
@@ -11084,6 +11080,7 @@ kingspointhrtraining.com
 kingstonthepug.com
 kingstorrent.com
 kinoclub.org
+kinopolet.net
 kinopushka.xyz
 kinslate.com
 kippsmart.com
@@ -11374,7 +11371,6 @@ learning-offer.com
 leasidetennis.org
 leastersmiled.pro
 leatherdepot.org
-leatherkonnect.com
 lechefboutique.com
 leekaz2.000webhostapp.com
 leesangku.com
@@ -11711,7 +11707,6 @@ lokvel.ru
 loldata.top
 lolfreerp.com
 lolhello.com
-lolmystery.net
 lolshock.com
 loltrain.com
 lomaresidencial.com
@@ -11818,6 +11813,7 @@ luxuryupgradepro.com
 lv-home.net
 lwasxldakmhx.com
 lwspa4all.com
+lwxlsj.wap.xsbiquge.com
 lymphoedematherapy.com
 lync.touchcommerce.com
 lyncweb.touchcommerce.com
@@ -11942,7 +11938,6 @@ main.vodonet.net
 mainadd.com
 mainclc.com
 mainstreetinsurance345.com
-mainteck-fr.com
 maishaera.agnesscott.org
 maitreesandhya.com
 majorfitus.com
@@ -13809,7 +13804,6 @@ otadunit.cdn.auditude.com
 otcdn2.auditude.com
 othepbuttit.com
 otherinbox.com
-otherossettlement.com
 otinekocin.com
 otooleautoglass.com
 otpercpiheno.blogspot.com
@@ -15317,7 +15311,6 @@ reliablefast.com
 reliablefiles.com
 reliablehacks.com
 reliableshredding.com
-relish.com.cn
 reloadedhacks.com
 remain.chartboosts.com
 remekcikkek.com
@@ -15993,7 +15986,6 @@ securemail-bbva.com
 securepaymente.com
 securepaypal-intl.com
 secureredirect101.com
-securerr.com
 securerunner.com
 securesignupoffers.org
 securesoft.info
@@ -16687,7 +16679,6 @@ soft-hack.net
 soft-program.com
 soft.jbdown.net
 soft4click.com
-softexcellence.com
 softh.blogsky.com
 softholics.com
 softkeygens.com
@@ -16708,7 +16699,6 @@ softwarestab.com
 softwaresultan.com
 softwaretricks.net
 softwareupdaterlp.com
-soheavyblog.com
 sohoindia.net
 sola-interactive.com
 solamor.com
@@ -16733,6 +16723,7 @@ som.aeroplan.com
 somanidiagnostic.com
 sombersea.com
 sombersquirrel.com
+somelandingpage.com
 someligeoas.com
 sometired.com
 somnoy.com
@@ -17396,7 +17387,6 @@ supload.com
 suport-lcloud.com
 support-applebr.com
 support-ip.com
-support-live-chat.com
 support.agobill.com
 support.novaonx.com
 support.subiz.com
@@ -17755,7 +17745,6 @@ telestarinc.com
 telus.inq.com
 telus.touchcommerce.com
 telusmobility.inq.com
-telusurnews.com
 temelio.com
 temizliyorum.com
 temovkozmetika.com
@@ -18137,7 +18126,6 @@ top-site-list.com
 top-sponsor.com
 top.artcomix.com
 top.baidu.com
-top.gigmir.net
 top.nydus.org
 top.topua.net
 top1-seo-service.com
@@ -18177,7 +18165,6 @@ topmoviehd.com
 toponlineagent.com
 toppstock.com
 toprebates.com
-topsafelist.net
 topsearcher.com
 topshopvidz.com
 topsites.blogflux.com
@@ -18934,7 +18921,6 @@ update1.api.augeapps.com
 update2.api.augeapps.com
 updated.com
 updatedate.cn
-updatenowpro.com
 updates.guitar-pro.com
 updatestar.com
 updo.nl
@@ -20011,7 +19997,6 @@ www.panazan.ro
 www.perupuntocom.com
 www.petpleasers.ca
 www.pgathailand.com
-www.pieiron.co.uk
 www.professionalblackbook.com
 www.profill-smd.com
 www.propan.ru
@@ -20082,7 +20067,6 @@ www1.multipops.com
 www1.pollg.com
 www1.sexinyourcity.com
 www1.xmediaserve.com
-www1.zapadserver1.com
 www10.glam.com
 www10.paypopup.com
 www1119.superembed.com
@@ -20097,7 +20081,6 @@ www18.glam.com
 www18.officedepot.com
 www180.myway.com
 www181.superembed.com
-www19.71sise.com
 www19.superembed.com
 www2.adhost.com
 www2.apptimize.com
@@ -20111,7 +20094,6 @@ www2.multipops.com
 www2.pagecount.com
 www2.wyylde.com
 www2.yidsense.com
-www2.zapadserver1.com
 www20.ggaibb.com
 www210.paypopup.com
 www211.paypopup.com
@@ -20157,7 +20139,6 @@ www35.xzmnt.com
 www35f.glam.com
 www35jm.glam.com
 www35t.glam.com
-www39.71sise.com
 www4.ad.tomshardware.com
 www4.bannerspace.com
 www4.clustrmaps.com
@@ -20165,15 +20146,12 @@ www4.counter.bloke.com
 www4.glam.com
 www41.xzmnt.com
 www43.ggaibb.com
-www45.71sise.com
-www45.xi1111.com
 www49.ggaibb.com
 www4b.j8inn1zektoe.com
 www4search.net
 www5.bannerspace.com
 www5.counter.bloke.com
 www5.ggaibb.com
-www5.xi1111.com
 www55.superembed.com
 www58.ovonnn.com
 www5a.j8inn1zektoe.com
@@ -20322,7 +20300,6 @@ xlog.byteoversea.com
 xlspkqpnnqj.com
 xlzones.com
 xmarkscom.skimlinks.com
-xmh-resc.9icph.cn
 xml.admetix.com
 xml.adsparkmedia.net
 xml.adxfactory.com
@@ -20508,7 +20485,6 @@ youndoo.com
 younetmedia.com
 youngorfabric.com
 youngyear.com
-younqone.com
 youpaiwang.com
 your-free-hack.com
 your-gift-zone.com
@@ -20566,6 +20542,7 @@ yqqxrfhtgcbxz.com
 ysbbcrypsc.com
 ysi.actonsoftware.com
 ysw.kffcww.com
+ytdhshoutidai.com
 ytdownloader.com
 ytqihang.com
 yttestsite.com
@@ -20613,7 +20590,6 @@ zamora.axiatraders.com
 zansceeifcmm.com
 zantracker.com
 zanyx.club
-zapadserver1.com
 zappy.co.za
 zarabativaisazartom.net
 zarenica.net
@@ -27553,7 +27529,6 @@ zzz.clickbank.net
 .ashcdn.com
 .ashemeth.com
 .ashhgo.com
-.ashifen.com
 .ashingcontro.top
 .ashiping.com
 .ashot.txxx.com
@@ -28242,7 +28217,6 @@ zzz.clickbank.net
 .baidujs.cnys.com
 .baidujs.vip
 .baidulao.com
-.baidushifen.com
 .baiduspider1.cn
 .baidustatic.com
 .baidut.github.io
@@ -59274,7 +59248,6 @@ zzz.clickbank.net
 .shidaikejivip.cn
 .shidailw.com
 .shieldof5adam.com
-.shifen.com
 .shiftrro.com
 .shiguangyx.cn
 .shijiezhidao.com
