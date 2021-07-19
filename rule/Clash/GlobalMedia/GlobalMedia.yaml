@@ -1,13 +1,13 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-14 02:06:46
-# DOMAIN: 38
-# DOMAIN-SUFFIX: 218
+# UPDATED: 2021-07-20 02:07:14
+# DOMAIN: 39
+# DOMAIN-SUFFIX: 220
 # DOMAIN-KEYWORD: 22
 # IP-CIDR: 858
 # PROCESS-NAME: 3
-# TOTAL: 1139
+# TOTAL: 1142
 payload:
   - DOMAIN,api.okzy.tv
   - DOMAIN,apple.comscoreresearch.com
@@ -34,6 +34,7 @@ payload:
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,linear.tv.apple.com
+  - DOMAIN,mobileso.bz.mgtv.com
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN,netflix.com.edgesuite.net
@@ -59,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,amplify.outbrain.com
+  - DOMAIN-SUFFIX,api.mgtv.com
   - DOMAIN-SUFFIX,api.segment.io
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,bahamut.com.tw
@@ -210,6 +212,7 @@ payload:
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pbs.org
+  - DOMAIN-SUFFIX,peacocktv.com
   - DOMAIN-SUFFIX,perfops.doracdn.com
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com

@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-19 09:47:47
+# UPDATED: 2021-07-20 02:07:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14523
+# DOMAIN: 14524
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12709
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27714
+# TOTAL: 27715
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -659,6 +659,7 @@ a337b163a0bc.com
 a353364ec1bd19a.com
 a35c92d96766745.com
 a3761801a40c59b48.com
+a3m.io
 a3p4.com
 a433.com
 a4b-tracking.com
@@ -2331,6 +2332,7 @@ ayads.co
 ayboll.com
 ayc0zsm69431gfebd.info
 ayc0zsm69431gfebd.xyz
+ayidaye.m.zwdu.com
 az693360.vo.msecnd.net
 azadify.com
 azads.com
@@ -2952,7 +2954,6 @@ bruceleadx.com
 bruceleadx1.com
 bruceleadx2.com
 bruceleadx3.com
-bs.csshq.com.cn
 bs.lamrd.cn
 bs.yandex.ru
 bs777.net
@@ -4817,7 +4818,6 @@ dw.iask.com.cn
 dw9uc6c6b8nwx.cloudfront.net
 dwin1.com
 dwin2.com
-dwtrack.qidian.com
 dxkkb5tytkivf.cloudfront.net
 dxprljqoay4rt.cloudfront.net
 dxwgpw0lkcum5.cloudfront.net
@@ -7537,7 +7537,6 @@ lijit.com
 likebtn.com
 likecontrol.com
 likemore-go.imgsmail.ru
-lilangdianqi.cn
 limbik.io
 limkokwing-edu.cn
 lindon-pool.win
@@ -7802,6 +7801,7 @@ lwxjg.com
 lwxlsj.wap.xsbiquge.com
 lx2rv.com
 lxbjs.baidu.com
+lxoakdaejjryws.com
 lxtrack.com
 lygnasa.cn
 lylog.1391.com
@@ -8271,6 +8271,7 @@ mixmarket.biz
 mixpo.com
 mixturehopeful.com
 miyudaquan.top
+mjpjjbbvct.com
 mkhoj.com
 mkt3261.com
 mkt51.net
@@ -8480,6 +8481,7 @@ mtldesigns.ca
 mtlog.droid4x.cn
 mto.mediatakeout.com
 mto.multiopen.cn
+mtoor.com
 mtrack.nl
 mtracking.com
 mtrcss.com
@@ -8957,7 +8959,6 @@ nyzda.top
 nzhuswwhd.com
 o-oo.ooo
 o-s.io
-o.4x25v.cn
 o.a0shop.top
 o.nkwwpw.com
 o12zs3u2n.com
@@ -9805,6 +9806,7 @@ ppro.de
 ppt.tianya999.com
 ppvabs.pplive.com
 pr-chart.com
+pr-chart.de
 pr-linktausch.de
 pr-sunshine.de
 pr0gram.org
@@ -9831,7 +9833,6 @@ presatisfy.com
 pressly.com
 prestadsng.com
 preview.sharethrough.com
-prexista.com
 prfct.co
 pride-u-bike.com
 primechoice.ru
@@ -14185,7 +14186,7 @@ xtremeserve.xyz
 xtremline.com
 xts7fgss.com
 xu5ctufltn.com
-xuexingkeji.cn
+xunyibaike.com
 xvika.com
 xvwebllndr.com
 xxccdshj.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-19 09:47:47
-# DOMAIN: 14523
+# UPDATED: 2021-07-20 02:07:13
+# DOMAIN: 14524
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12709
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27419
+# TOTAL: 27420
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -658,6 +658,7 @@ payload:
   - DOMAIN,a353364ec1bd19a.com
   - DOMAIN,a35c92d96766745.com
   - DOMAIN,a3761801a40c59b48.com
+  - DOMAIN,a3m.io
   - DOMAIN,a3p4.com
   - DOMAIN,a433.com
   - DOMAIN,a4b-tracking.com
@@ -2330,6 +2331,7 @@ payload:
   - DOMAIN,ayboll.com
   - DOMAIN,ayc0zsm69431gfebd.info
   - DOMAIN,ayc0zsm69431gfebd.xyz
+  - DOMAIN,ayidaye.m.zwdu.com
   - DOMAIN,az693360.vo.msecnd.net
   - DOMAIN,azadify.com
   - DOMAIN,azads.com
@@ -2951,7 +2953,6 @@ payload:
   - DOMAIN,bruceleadx1.com
   - DOMAIN,bruceleadx2.com
   - DOMAIN,bruceleadx3.com
-  - DOMAIN,bs.csshq.com.cn
   - DOMAIN,bs.lamrd.cn
   - DOMAIN,bs.yandex.ru
   - DOMAIN,bs777.net
@@ -4816,7 +4817,6 @@ payload:
   - DOMAIN,dw9uc6c6b8nwx.cloudfront.net
   - DOMAIN,dwin1.com
   - DOMAIN,dwin2.com
-  - DOMAIN,dwtrack.qidian.com
   - DOMAIN,dxkkb5tytkivf.cloudfront.net
   - DOMAIN,dxprljqoay4rt.cloudfront.net
   - DOMAIN,dxwgpw0lkcum5.cloudfront.net
@@ -7536,7 +7536,6 @@ payload:
   - DOMAIN,likebtn.com
   - DOMAIN,likecontrol.com
   - DOMAIN,likemore-go.imgsmail.ru
-  - DOMAIN,lilangdianqi.cn
   - DOMAIN,limbik.io
   - DOMAIN,limkokwing-edu.cn
   - DOMAIN,lindon-pool.win
@@ -7801,6 +7800,7 @@ payload:
   - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lx2rv.com
   - DOMAIN,lxbjs.baidu.com
+  - DOMAIN,lxoakdaejjryws.com
   - DOMAIN,lxtrack.com
   - DOMAIN,lygnasa.cn
   - DOMAIN,lylog.1391.com
@@ -8270,6 +8270,7 @@ payload:
   - DOMAIN,mixpo.com
   - DOMAIN,mixturehopeful.com
   - DOMAIN,miyudaquan.top
+  - DOMAIN,mjpjjbbvct.com
   - DOMAIN,mkhoj.com
   - DOMAIN,mkt3261.com
   - DOMAIN,mkt51.net
@@ -8479,6 +8480,7 @@ payload:
   - DOMAIN,mtlog.droid4x.cn
   - DOMAIN,mto.mediatakeout.com
   - DOMAIN,mto.multiopen.cn
+  - DOMAIN,mtoor.com
   - DOMAIN,mtrack.nl
   - DOMAIN,mtracking.com
   - DOMAIN,mtrcss.com
@@ -8956,7 +8958,6 @@ payload:
   - DOMAIN,nzhuswwhd.com
   - DOMAIN,o-oo.ooo
   - DOMAIN,o-s.io
-  - DOMAIN,o.4x25v.cn
   - DOMAIN,o.a0shop.top
   - DOMAIN,o.nkwwpw.com
   - DOMAIN,o12zs3u2n.com
@@ -9804,6 +9805,7 @@ payload:
   - DOMAIN,ppt.tianya999.com
   - DOMAIN,ppvabs.pplive.com
   - DOMAIN,pr-chart.com
+  - DOMAIN,pr-chart.de
   - DOMAIN,pr-linktausch.de
   - DOMAIN,pr-sunshine.de
   - DOMAIN,pr0gram.org
@@ -9830,7 +9832,6 @@ payload:
   - DOMAIN,pressly.com
   - DOMAIN,prestadsng.com
   - DOMAIN,preview.sharethrough.com
-  - DOMAIN,prexista.com
   - DOMAIN,prfct.co
   - DOMAIN,pride-u-bike.com
   - DOMAIN,primechoice.ru
@@ -14184,7 +14185,7 @@ payload:
   - DOMAIN,xtremline.com
   - DOMAIN,xts7fgss.com
   - DOMAIN,xu5ctufltn.com
-  - DOMAIN,xuexingkeji.cn
+  - DOMAIN,xunyibaike.com
   - DOMAIN,xvika.com
   - DOMAIN,xvwebllndr.com
   - DOMAIN,xxccdshj.com

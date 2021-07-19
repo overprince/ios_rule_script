@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-19 09:47:48
-# DOMAIN: 15094
+# UPDATED: 2021-07-20 02:07:13
+# DOMAIN: 15081
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 75540
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 90964
+# TOTAL: 90951
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -547,7 +547,6 @@ payload:
   - DOMAIN,acquireenglish.org
   - DOMAIN,acrididae.com
   - DOMAIN,acrowiswhite.com
-  - DOMAIN,acs.maribacaberita.com
   - DOMAIN,actiagroup.com
   - DOMAIN,actionlocker.com
   - DOMAIN,actionmobilemarine.net
@@ -1269,7 +1268,6 @@ payload:
   - DOMAIN,alcidebrought.pro
   - DOMAIN,alcoenterprises.com
   - DOMAIN,aldaniti.net
-  - DOMAIN,aldaypill.alldaypill.com
   - DOMAIN,aldenfiles.com
   - DOMAIN,aldrinemilian.com
   - DOMAIN,aldusaccountants.com
@@ -3947,7 +3945,6 @@ payload:
   - DOMAIN,cyclonedieselpower.com
   - DOMAIN,cye-fscp.com
   - DOMAIN,cylm.jh56.cn
-  - DOMAIN,cyousoft.com
   - DOMAIN,cypgroup.com
   - DOMAIN,cypher-lab.com
   - DOMAIN,czas-na-fb.blogspot.com
@@ -3995,7 +3992,6 @@ payload:
   - DOMAIN,d6y3.ads.pof.com
   - DOMAIN,d6y5.ads.pof.com
   - DOMAIN,d7e10fa2099.com
-  - DOMAIN,d8b981ea2ecd.bitsngo.net
   - DOMAIN,d8qy7md4cj3gz.cloudfront.net
   - DOMAIN,d8rk54i4mohrb.cloudfront.net
   - DOMAIN,d9hhrg4mnvzow.cloudfront.net
@@ -4526,7 +4522,6 @@ payload:
   - DOMAIN,dragoncity.newzgames.com
   - DOMAIN,dragoncitycheatengine.com
   - DOMAIN,dragoncitygems.com
-  - DOMAIN,dragoncityhack.net
   - DOMAIN,dragoncityhack.org
   - DOMAIN,dragoncityhackonline.com
   - DOMAIN,dragondreaming.owncube.com
@@ -4966,7 +4961,6 @@ payload:
   - DOMAIN,eternitymobiles.com
   - DOMAIN,etestosterone.com
   - DOMAIN,etgdta.com
-  - DOMAIN,eth-give.net
   - DOMAIN,ethaddress.neocities.org
   - DOMAIN,ethanslayton.com
   - DOMAIN,ether-wallet.net
@@ -5297,7 +5291,6 @@ payload:
   - DOMAIN,fiancevisacover.com
   - DOMAIN,fiberastat.com
   - DOMAIN,ficeconsultores.com
-  - DOMAIN,fieldfocusgo.com
   - DOMAIN,fiestasguadalajara.com
   - DOMAIN,fifa14.epickeys.com
   - DOMAIN,fifa14.get4games.com
@@ -5505,7 +5498,6 @@ payload:
   - DOMAIN,focusios.punchh.com
   - DOMAIN,focuspowerprogram.com
   - DOMAIN,focustimeshk.com
-  - DOMAIN,fodipuemoa.com
   - DOMAIN,folderdocs.com
   - DOMAIN,foldertube.com
   - DOMAIN,folderurl.com
@@ -6611,7 +6603,6 @@ payload:
   - DOMAIN,hakdilaravakfi.com
   - DOMAIN,haletone.com
   - DOMAIN,halitkul.com
-  - DOMAIN,hallmarkteam.com
   - DOMAIN,halo4.filesforgames.com
   - DOMAIN,halo77.com
   - DOMAIN,haltgame.com
@@ -7570,7 +7561,6 @@ payload:
   - DOMAIN,jlifm.org.cn
   - DOMAIN,jlramirez.com
   - DOMAIN,jm-bruneau.inq.com
-  - DOMAIN,jmacs.maribacaberita.com
   - DOMAIN,jmb-photography.com
   - DOMAIN,jmbhyqijqhxk.com
   - DOMAIN,jmxphjxsxd.com
@@ -8401,6 +8391,7 @@ payload:
   - DOMAIN,lwasxldakmhx.com
   - DOMAIN,lwspa4all.com
   - DOMAIN,lwxlsj.wap.xsbiquge.com
+  - DOMAIN,lxoakdaejjryws.com
   - DOMAIN,lymphoedematherapy.com
   - DOMAIN,lync.touchcommerce.com
   - DOMAIN,lyncweb.touchcommerce.com
@@ -8416,7 +8407,6 @@ payload:
   - DOMAIN,m.1234567.com.cn
   - DOMAIN,m.amtmobi.com
   - DOMAIN,m.ib.sin1.geoadnxs.com
-  - DOMAIN,m.jsqinvest.com
   - DOMAIN,m.loldlxmy.com
   - DOMAIN,m.masoffer.net
   - DOMAIN,m.pl.failmobile.net
@@ -8893,7 +8883,6 @@ payload:
   - DOMAIN,minecraftgen.com
   - DOMAIN,minecraftget.com
   - DOMAIN,minecrafthostingforfree.com
-  - DOMAIN,minecraftpromotions.com
   - DOMAIN,minecraftserverforfree.com
   - DOMAIN,minevinc.com
   - DOMAIN,mini.activeshopper.com
@@ -8940,6 +8929,7 @@ payload:
   - DOMAIN,mixgrouptravel.cn
   - DOMAIN,mixtraffic.com
   - DOMAIN,mizahturk.com
+  - DOMAIN,mjpjjbbvct.com
   - DOMAIN,mkt4477.com
   - DOMAIN,mktg.tvpage.com
   - DOMAIN,mkto-ab180008.com
@@ -11667,7 +11657,6 @@ payload:
   - DOMAIN,sfamt14.smi2.net
   - DOMAIN,sfamt3.smi2.net
   - DOMAIN,sfamt7.smi2.net
-  - DOMAIN,sfawiner.com
   - DOMAIN,sfr-care.inq.com
   - DOMAIN,sfr.inq.com
   - DOMAIN,sfr.touchcommerce.com
@@ -11736,7 +11725,6 @@ payload:
   - DOMAIN,shelleylalonde.com
   - DOMAIN,shemales.indianshemales.com
   - DOMAIN,shemalesjapan.net
-  - DOMAIN,shemalesstunners.com
   - DOMAIN,shenaaz.com
   - DOMAIN,shenke.com.cn
   - DOMAIN,shenyangxg.com
@@ -13227,7 +13215,6 @@ payload:
   - DOMAIN,towersbuild.sa.com
   - DOMAIN,townhall.weekendinc.com
   - DOMAIN,townofpetersburg.org
-  - DOMAIN,tp.domyjourney.cn
   - DOMAIN,tp.luolaibin.cn
   - DOMAIN,tpads.sv.publicus.com
   - DOMAIN,tpat.api.vungle.akadns.net

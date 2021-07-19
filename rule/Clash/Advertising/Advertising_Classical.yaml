@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-19 09:47:48
-# DOMAIN: 20747
+# UPDATED: 2021-07-20 02:07:13
+# DOMAIN: 20736
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51124
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 72201
+# TOTAL: 72190
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -948,7 +948,6 @@ payload:
   - DOMAIN,acquireenglish.org
   - DOMAIN,acrididae.com
   - DOMAIN,acrowiswhite.com
-  - DOMAIN,acs.maribacaberita.com
   - DOMAIN,actiagroup.com
   - DOMAIN,action.metaffiliation.com
   - DOMAIN,actionflash.com
@@ -2585,7 +2584,6 @@ payload:
   - DOMAIN,alcoenterprises.com
   - DOMAIN,alcvid.com
   - DOMAIN,aldaniti.net
-  - DOMAIN,aldaypill.alldaypill.com
   - DOMAIN,aldec.actonsoftware.com
   - DOMAIN,aldenfiles.com
   - DOMAIN,aldrinemilian.com
@@ -3523,6 +3521,7 @@ payload:
   - DOMAIN,ayaanassociates.com
   - DOMAIN,ayada.zapto.org
   - DOMAIN,ayboll.sgsrv.com
+  - DOMAIN,ayidaye.m.zwdu.com
   - DOMAIN,aysnmnzu4u.com
   - DOMAIN,ayudastecnicas.com
   - DOMAIN,ayurvedabeyond.com
@@ -6286,7 +6285,6 @@ payload:
   - DOMAIN,cyclops.prod.untd.com
   - DOMAIN,cye-fscp.com
   - DOMAIN,cylm.jh56.cn
-  - DOMAIN,cyousoft.com
   - DOMAIN,cypgroup.com
   - DOMAIN,cypher-lab.com
   - DOMAIN,cyppolice.com
@@ -6354,7 +6352,6 @@ payload:
   - DOMAIN,d6y5.ads.pof.com
   - DOMAIN,d7e10fa2099.com
   - DOMAIN,d830x8j3o1b2k.cloudfront.net
-  - DOMAIN,d8b981ea2ecd.bitsngo.net
   - DOMAIN,d8qy7md4cj3gz.cloudfront.net
   - DOMAIN,d8rk54i4mohrb.cloudfront.net
   - DOMAIN,d985a9d2clzq5.cloudfront.net
@@ -7042,7 +7039,6 @@ payload:
   - DOMAIN,dragoncity.newzgames.com
   - DOMAIN,dragoncitycheatengine.com
   - DOMAIN,dragoncitygems.com
-  - DOMAIN,dragoncityhack.net
   - DOMAIN,dragoncityhack.org
   - DOMAIN,dragoncityhackonline.com
   - DOMAIN,dragondreaming.owncube.com
@@ -7558,7 +7554,6 @@ payload:
   - DOMAIN,eternitymobiles.com
   - DOMAIN,etestosterone.com
   - DOMAIN,etgdta.com
-  - DOMAIN,eth-give.net
   - DOMAIN,ethaddress.neocities.org
   - DOMAIN,ethanslayton.com
   - DOMAIN,ether-wallet.net
@@ -7969,7 +7964,6 @@ payload:
   - DOMAIN,fiancevisacover.com
   - DOMAIN,fiberastat.com
   - DOMAIN,ficeconsultores.com
-  - DOMAIN,fieldfocusgo.com
   - DOMAIN,fiestasguadalajara.com
   - DOMAIN,fifa14.epickeys.com
   - DOMAIN,fifa14.get4games.com
@@ -8205,7 +8199,6 @@ payload:
   - DOMAIN,focusfile.com
   - DOMAIN,focuspowerprogram.com
   - DOMAIN,focustimeshk.com
-  - DOMAIN,fodipuemoa.com
   - DOMAIN,fogjunkossze.com
   - DOMAIN,fogtrack.net
   - DOMAIN,folderdocs.com
@@ -9557,7 +9550,6 @@ payload:
   - DOMAIN,hakdilaravakfi.com
   - DOMAIN,haletone.com
   - DOMAIN,halitkul.com
-  - DOMAIN,hallmarkteam.com
   - DOMAIN,halo4.filesforgames.com
   - DOMAIN,halo77.com
   - DOMAIN,haltgame.com
@@ -10766,7 +10758,6 @@ payload:
   - DOMAIN,jlifm.org.cn
   - DOMAIN,jlramirez.com
   - DOMAIN,jm-bruneau.inq.com
-  - DOMAIN,jmacs.maribacaberita.com
   - DOMAIN,jmb-photography.com
   - DOMAIN,jmbhyqijqhxk.com
   - DOMAIN,jmxphjxsxd.com
@@ -11813,6 +11804,7 @@ payload:
   - DOMAIN,lwasxldakmhx.com
   - DOMAIN,lwspa4all.com
   - DOMAIN,lwxlsj.wap.xsbiquge.com
+  - DOMAIN,lxoakdaejjryws.com
   - DOMAIN,lymphoedematherapy.com
   - DOMAIN,lync.touchcommerce.com
   - DOMAIN,lyncweb.touchcommerce.com
@@ -11837,7 +11829,6 @@ payload:
   - DOMAIN,m.cityads.com
   - DOMAIN,m.clickability.com
   - DOMAIN,m.five88.com
-  - DOMAIN,m.jsqinvest.com
   - DOMAIN,m.loldlxmy.com
   - DOMAIN,m.lucky88.com
   - DOMAIN,m.m88cvf.com
@@ -12474,7 +12465,6 @@ payload:
   - DOMAIN,minecraftgen.com
   - DOMAIN,minecraftget.com
   - DOMAIN,minecrafthostingforfree.com
-  - DOMAIN,minecraftpromotions.com
   - DOMAIN,minecraftserverforfree.com
   - DOMAIN,minevinc.com
   - DOMAIN,mini.activeshopper.com
@@ -12531,6 +12521,7 @@ payload:
   - DOMAIN,mixtraff.com
   - DOMAIN,mixtraffic.com
   - DOMAIN,mizahturk.com
+  - DOMAIN,mjpjjbbvct.com
   - DOMAIN,mjxads.internet.com
   - DOMAIN,mktg.actonsoftware.com
   - DOMAIN,mktg.tvpage.com
@@ -12970,7 +12961,6 @@ payload:
   - DOMAIN,mygooglemy.com
   - DOMAIN,mygreatrewards.com
   - DOMAIN,myhemorrhoidtreatment.com
-  - DOMAIN,myhitbox.com
   - DOMAIN,myhome.j8inn1zektoe.com
   - DOMAIN,myicloudcam.com
   - DOMAIN,mykhyber.org
@@ -15628,6 +15618,7 @@ payload:
   - DOMAIN,rutabletki.com
   - DOMAIN,ruthlessrobin.com
   - DOMAIN,ruttwind.com
+  - DOMAIN,rutvind.com
   - DOMAIN,rv.furaffinity.net
   - DOMAIN,rvweigh.com
   - DOMAIN,rwxzeoqfj.com
@@ -16181,7 +16172,6 @@ payload:
   - DOMAIN,sfamt14.smi2.net
   - DOMAIN,sfamt3.smi2.net
   - DOMAIN,sfamt7.smi2.net
-  - DOMAIN,sfawiner.com
   - DOMAIN,sfr-care.inq.com
   - DOMAIN,sfr.inq.com
   - DOMAIN,sfr.touchcommerce.com
@@ -16266,7 +16256,6 @@ payload:
   - DOMAIN,shelleylalonde.com
   - DOMAIN,shemales.indianshemales.com
   - DOMAIN,shemalesjapan.net
-  - DOMAIN,shemalesstunners.com
   - DOMAIN,shenaaz.com
   - DOMAIN,shenke.com.cn
   - DOMAIN,shenyangxg.com
@@ -17679,6 +17668,7 @@ payload:
   - DOMAIN,te.signonsandiego.com
   - DOMAIN,te.thestar.com
   - DOMAIN,te.versiontracker.com
+  - DOMAIN,teachac.com
   - DOMAIN,teachscape.vo.llnwd.net
   - DOMAIN,tealeaf.com
   - DOMAIN,team-bobcat.org
@@ -18207,7 +18197,6 @@ payload:
   - DOMAIN,towersbuild.sa.com
   - DOMAIN,townhall.weekendinc.com
   - DOMAIN,townofpetersburg.org
-  - DOMAIN,tp.domyjourney.cn
   - DOMAIN,tp.luolaibin.cn
   - DOMAIN,tpads.ovguide.com
   - DOMAIN,tpads.sv.publicus.com
