@@ -15,7 +15,7 @@ Global分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需
 
 ## 规则统计
 
-总计规则：33381 条。
+总计规则：33377 条。
 
 各类型规则统计：
 
@@ -26,8 +26,6 @@ Global分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需
 | USER-AGENT | 48 |
 | DOMAIN-KEYWORD | 41 |
 | IP-CIDR | 128 |
-| IP-CIDR6 | 3 |
-| PROCESS-NAME | 1 |
 | URL-REGEX | 1 |
 ## 配置说明
 

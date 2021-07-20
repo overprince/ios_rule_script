@@ -1,15 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-20 02:07:14
+# UPDATED: 2021-07-21 02:07:19
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14524
+# DOMAIN: 14518
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12709
 # IP-CIDR: 158
-# IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27715
+# TOTAL: 27708
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -3301,6 +3300,7 @@ cgz0213.com
 ch-hr12333.com
 chachors.net
 chaghets.net
+chainads.io
 chainwalladsy.com
 challengedeprave.com
 chameleon.ad
@@ -3907,6 +3907,7 @@ crashfootwork.com
 crazyad.net
 crazyclickstats.com
 crazyegg.com
+crazyhell.com
 crazylead.com
 crazymike.tw
 create2fear.com
@@ -4854,7 +4855,6 @@ e-viral.com
 e-webtrack.net
 e-zeeinternet.com
 e.2l06k.cn
-e.53trya.cn
 e.8of9hd.cn
 e.967nd.cn
 e.ailix.cn
@@ -7378,7 +7378,6 @@ kuyun.com
 kwnq4hg2n9.com
 kxewpz.com
 kxji.com
-kxqvnfcg.xyz
 kymirasite.pro
 kyrsu.frost-electric-supply.com
 kzsha.com
@@ -7633,7 +7632,6 @@ lkqd.net
 llahnch259.com
 llanotextiles.cn
 lld2q.com
-llk.dlingtalk.cn
 lloogg.com
 llq9q2lacr.com
 llqd75c56i.com
@@ -7826,10 +7824,8 @@ m.168ey.com
 m.1s8pj.cn
 m.20mao.com
 m.2l06k.cn
-m.53trya.cn
 m.5vst8h.cn
 m.6z1gf.cn
-m.75l3g.cn
 m.89kvh.cn
 m.8of9hd.cn
 m.8t5xo.cn
@@ -8143,6 +8139,7 @@ mega-stats.com
 megaad.nz
 megacpm.com
 megapopads.com
+meigeer.com.cn
 meineserver.com
 meinlist.com
 meishiba.com.cn
@@ -8731,7 +8728,6 @@ networld.hk
 netzaehler.de
 netzstat.ch
 neudesicmediagroup.com
-neuesdate.com
 neumashop.cl
 never2date.com
 nevergreen.net
@@ -9191,7 +9187,6 @@ optmnstr.com
 optmstr.com
 optnmnstr.com
 optnmstr.com
-opto-22.com.cn
 optorb.com
 optout.crsspxl.com
 opyyykrdyuum.com
@@ -9566,7 +9561,6 @@ pippio.com
 pippity.com
 pirdoust.com
 pistraving.co
-piticlik.com
 pivotrunner.com
 piwik.pro
 pix.speedbit.com
@@ -9617,7 +9611,6 @@ play-asia.com
 play.estream.to
 play.estream.xyz
 play.istlandoll.com
-play.on.animeteatr.ru
 play.play.estream.to
 play.play.estream.xyz
 play.play1.videos.vidto.me
@@ -12925,7 +12918,6 @@ twrank.com
 twtad.com
 txt.eu
 txtxz.org.cn
-tydd.hunterwish.cn
 tynt.com
 tynyh.com
 typeofmarijuana.com
@@ -12966,6 +12958,7 @@ ucoz.com
 uctrac.com
 ucweb.com
 udarem.com
+udjfnbl.zwdu.com
 udmserve.net
 udrivemyr54.com
 uedas.qdmm.com

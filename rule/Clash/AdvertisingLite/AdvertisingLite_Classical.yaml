@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-20 02:07:13
-# DOMAIN: 14524
+# UPDATED: 2021-07-21 02:07:18
+# DOMAIN: 14518
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12709
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27420
+# TOTAL: 27414
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -3300,6 +3300,7 @@ payload:
   - DOMAIN,ch-hr12333.com
   - DOMAIN,chachors.net
   - DOMAIN,chaghets.net
+  - DOMAIN,chainads.io
   - DOMAIN,chainwalladsy.com
   - DOMAIN,challengedeprave.com
   - DOMAIN,chameleon.ad
@@ -3906,6 +3907,7 @@ payload:
   - DOMAIN,crazyad.net
   - DOMAIN,crazyclickstats.com
   - DOMAIN,crazyegg.com
+  - DOMAIN,crazyhell.com
   - DOMAIN,crazylead.com
   - DOMAIN,crazymike.tw
   - DOMAIN,create2fear.com
@@ -4853,7 +4855,6 @@ payload:
   - DOMAIN,e-webtrack.net
   - DOMAIN,e-zeeinternet.com
   - DOMAIN,e.2l06k.cn
-  - DOMAIN,e.53trya.cn
   - DOMAIN,e.8of9hd.cn
   - DOMAIN,e.967nd.cn
   - DOMAIN,e.ailix.cn
@@ -7377,7 +7378,6 @@ payload:
   - DOMAIN,kwnq4hg2n9.com
   - DOMAIN,kxewpz.com
   - DOMAIN,kxji.com
-  - DOMAIN,kxqvnfcg.xyz
   - DOMAIN,kymirasite.pro
   - DOMAIN,kyrsu.frost-electric-supply.com
   - DOMAIN,kzsha.com
@@ -7632,7 +7632,6 @@ payload:
   - DOMAIN,llahnch259.com
   - DOMAIN,llanotextiles.cn
   - DOMAIN,lld2q.com
-  - DOMAIN,llk.dlingtalk.cn
   - DOMAIN,lloogg.com
   - DOMAIN,llq9q2lacr.com
   - DOMAIN,llqd75c56i.com
@@ -7825,10 +7824,8 @@ payload:
   - DOMAIN,m.1s8pj.cn
   - DOMAIN,m.20mao.com
   - DOMAIN,m.2l06k.cn
-  - DOMAIN,m.53trya.cn
   - DOMAIN,m.5vst8h.cn
   - DOMAIN,m.6z1gf.cn
-  - DOMAIN,m.75l3g.cn
   - DOMAIN,m.89kvh.cn
   - DOMAIN,m.8of9hd.cn
   - DOMAIN,m.8t5xo.cn
@@ -8142,6 +8139,7 @@ payload:
   - DOMAIN,megaad.nz
   - DOMAIN,megacpm.com
   - DOMAIN,megapopads.com
+  - DOMAIN,meigeer.com.cn
   - DOMAIN,meineserver.com
   - DOMAIN,meinlist.com
   - DOMAIN,meishiba.com.cn
@@ -8730,7 +8728,6 @@ payload:
   - DOMAIN,netzaehler.de
   - DOMAIN,netzstat.ch
   - DOMAIN,neudesicmediagroup.com
-  - DOMAIN,neuesdate.com
   - DOMAIN,neumashop.cl
   - DOMAIN,never2date.com
   - DOMAIN,nevergreen.net
@@ -9190,7 +9187,6 @@ payload:
   - DOMAIN,optmstr.com
   - DOMAIN,optnmnstr.com
   - DOMAIN,optnmstr.com
-  - DOMAIN,opto-22.com.cn
   - DOMAIN,optorb.com
   - DOMAIN,optout.crsspxl.com
   - DOMAIN,opyyykrdyuum.com
@@ -9565,7 +9561,6 @@ payload:
   - DOMAIN,pippity.com
   - DOMAIN,pirdoust.com
   - DOMAIN,pistraving.co
-  - DOMAIN,piticlik.com
   - DOMAIN,pivotrunner.com
   - DOMAIN,piwik.pro
   - DOMAIN,pix.speedbit.com
@@ -9616,7 +9611,6 @@ payload:
   - DOMAIN,play.estream.to
   - DOMAIN,play.estream.xyz
   - DOMAIN,play.istlandoll.com
-  - DOMAIN,play.on.animeteatr.ru
   - DOMAIN,play.play.estream.to
   - DOMAIN,play.play.estream.xyz
   - DOMAIN,play.play1.videos.vidto.me
@@ -12924,7 +12918,6 @@ payload:
   - DOMAIN,twtad.com
   - DOMAIN,txt.eu
   - DOMAIN,txtxz.org.cn
-  - DOMAIN,tydd.hunterwish.cn
   - DOMAIN,tynt.com
   - DOMAIN,tynyh.com
   - DOMAIN,typeofmarijuana.com
@@ -12965,6 +12958,7 @@ payload:
   - DOMAIN,uctrac.com
   - DOMAIN,ucweb.com
   - DOMAIN,udarem.com
+  - DOMAIN,udjfnbl.zwdu.com
   - DOMAIN,udmserve.net
   - DOMAIN,udrivemyr54.com
   - DOMAIN,uedas.qdmm.com
