@@ -19,7 +19,6 @@ DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,mtalk.google.com
-DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,steamcommunity-a.akamaihd.net
@@ -272,8 +271,6 @@ DOMAIN-SUFFIX,icedropper.com
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,icevirtuallibrary.com
 DOMAIN-SUFFIX,iciba.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,iesdouyin.com
@@ -369,9 +366,6 @@ DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mls-cdn.com
@@ -385,8 +379,6 @@ DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myanonamouse.net
@@ -410,11 +402,6 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,oecd-ilibrary.org
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oracle.com
@@ -423,7 +410,6 @@ DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,ourdvs.com
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,ovid.com
 DOMAIN-SUFFIX,oxfordartonline.com
@@ -491,7 +477,6 @@ DOMAIN-SUFFIX,seafile.com
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,sf-express.com
-DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,siam.org
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sinaapp.com
@@ -652,8 +637,6 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,officecdn
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
@@ -664,16 +647,13 @@ USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
-USER-AGENT,Microsoft*
 USER-AGENT,Moke*
 USER-AGENT,NeteaseMusic*
-USER-AGENT,PayPal*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
 USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
